@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial;
+  color: #26282a;
+
+  .socialCard {
+    width: 500px;
+    height: 500px;
+    border-bottom: 1px solid #d5d5d5;
+    border-top: 1px solid #d5d5d5;
+  }
+}
+

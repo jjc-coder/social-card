@@ -1,0 +1,30 @@
+.header {
+  display: flex;
+  align-items: center;
+  height: 100px;
+  .avatar {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+
+  .dev {
+    font-size: 15px;
+    font-weight: bold;
+    padding: 3px 0;
+  }
+
+  .date {
+    font-weight: lighter;
+    color: #657686;
+  }
+
+  .learning {
+    padding: 3px 0;
+  }
+
+  .author {
+    padding: 3px 0;
+  }
+}
