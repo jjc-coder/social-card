@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import SocialCard from './SocialCard';
-import * as serviceWorker from './serviceWorker';
+import SocialCard from './src/SocialCard';
+import * as serviceWorker from './src/serviceWorker';
 
 ReactDOM.render(<SocialCard />, document.getElementById('root'));
 
